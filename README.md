@@ -1,1 +1,3 @@
-# sigmagix.github.io
+# SigmaGix Website
+
+Official bilingual landing page for SigmaGix.
